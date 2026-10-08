@@ -5,7 +5,7 @@ I work in live production and I do a lot of dev work around it. I wouldn't call 
 Most of what I do falls into two buckets: e-commerce on gaming platforms, and software for production work. Usually it starts one of two ways. Either I'm tired of doing something by hand, or I've found a problem that isn't easy, but I know I can take it on and deliver. I'm a confident person, I always find my way through, and I put the work in until the job is done.
 
 ### Stuff I've built
-- [CueIRL](https://cueirl.app), a cloud OBS platform for IRL streamers. 
+- [CueIRL](https://cueirl.com), a cloud OBS platform for IRL streamers. 
 - [ClipHaven](https://cliphaven.app), a clipping marketplace. Brands run campaigns, clippers get paid per view on TikTok, Reels, and YouTube Shorts.
 - [Purity](https://purity.gg), an AI-powered Discord bot that automatically filters inappropriate images out of Discord servers.
 - A few OBS plugins and other small production tools, mostly built for myself.
